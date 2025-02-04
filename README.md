@@ -82,8 +82,8 @@ Used in algorithms like Dijkstra's shortest path and Prim's minimum spanning tre
 A min-heap or max-heap can be used to efficiently find the k-th largest or smallest element in a stream of data.
 
 <p align="center">
-  <img src="heap.png" alt="Image 1" width="45%" height='305' />
-  <img src="Timecomplexity.png" alt="Image 2" width="45%" height='300' />
+  <img src="heap.png" alt="Image 1" width="42%" height='305' />
+  <img src="Timecomplexity.png" alt="Image 2" width="42%" height='300' />
 </p>
 
 
